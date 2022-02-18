@@ -33,7 +33,5 @@
     "passport-http": "^0.3.0",
     "passport-jwt": "^4.0.0"
     },
-  "devDependencies": {
-    "mocha": "^8.3.0"
-  }
+
 }
